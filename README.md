@@ -142,5 +142,3 @@ CMPE 442 Introduction to Machine Learning, Spring 2026
 - Pedregosa, F. et al. (2011). *Scikit-learn: Machine Learning in Python.*
 ```
 
----
-
