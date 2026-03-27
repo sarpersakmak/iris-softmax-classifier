@@ -144,13 +144,3 @@ CMPE 442 Introduction to Machine Learning, Spring 2026
 
 ---
 
-## 🐙 GitHub'a Yükleme Adımları
-
-### 1️⃣ GitHub'da Yeni Repo Oluştur
-```
-github.com → sağ üst "+" → New repository
-→ Repository name: iris-softmax-classifier
-→ Description: Softmax Regression on Iris Dataset using PyTorch (CMPE 442)
-→ Public ✅
-→ Add a README file: İŞARETLEME (kendimiz ekleyeceğiz)
-→ Create repository
