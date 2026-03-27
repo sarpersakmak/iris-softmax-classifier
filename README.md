@@ -140,5 +140,4 @@ CMPE 442 Introduction to Machine Learning, Spring 2026
 - Fisher, R. A. (1936). *The use of multiple measurements in taxonomic problems.*
 - Paszke, A. et al. (2019). *PyTorch: An Imperative Style, High-Performance Deep Learning Library.*
 - Pedregosa, F. et al. (2011). *Scikit-learn: Machine Learning in Python.*
-```
 
