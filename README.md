@@ -1,6 +1,6 @@
 #  Iris Softmax Classifier
 
-A from-scratch implementation of **Softmax Regression** on the Iris dataset using **PyTorch**, developed as part of the CMPE 442 Introduction to Machine Learning course at TED University.
+A from-scratch implementation of **Softmax Regression** on the Iris dataset using **PyTorch**, developed as  Introduction to Machine Learning .
 
 ---
 
@@ -99,7 +99,7 @@ This will:
 | Degree | Mean CV Val Loss |
 |--------|-----------------|
 | Linear (4 features) | 1.0882 |
-| **Quadratic (14 features)** | **0.4388** ✅ |
+| **Quadratic (14 features)** | **0.4388**  |
 | Cubic (34 features) | 24.9124 |
 
 **Best model among 9 combinations:** Ridge + l2
